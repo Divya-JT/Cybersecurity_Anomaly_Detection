@@ -38,6 +38,15 @@ This project is a machine learning-powered web application that detects anomalie
 - Predict anomalies
 - Return results 
 
+### AI Tools Used
+
+- ChatGPT - Used for code generation, debugging, and explanation.
+- NotebookLM - Used for analyzing dataset and documents.
+- Napkin.io - Used for Visualizing data.
 
 
-
+🔮 Future Enhancements
+1. Real-time Anomaly Detection
+2. Downloadable Detailed PDF Reports
+3. Multiclass Anomaly Categorization
+4. Alert System
